@@ -11,8 +11,4 @@ __azurite_db*__.json
 
 # Added folders and file patterns
 workflow-designtime/
-.vscode/
-!.vscode/extensions.json
-!.vscode/launch.json
-!.vscode/tasks.json
 *.code-workspace

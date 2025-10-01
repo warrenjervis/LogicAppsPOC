@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_INPROC_NET8_ENABLED": "1",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "APP_KIND": "workflowapp",
+    "ProjectDirectoryPath": "/Users/warrenjervis/repos/LogicAppsPoC/LogicAppsPOC/LogicAppsPOC",
+    "WORKFLOWS_SUBSCRIPTION_ID": "",
+    "sql_connectionString": "Data Source=localhost;Application Name=Logic Apps;Integrated Security=false;User ID=sa;Password=gHuKqx!9fL_gKNmowtjD;Encrypt=true;TrustServerCertificate=true;"
+  }
+}
